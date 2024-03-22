@@ -1,0 +1,5 @@
+train: 'D:/multi_camera_tracking/test_temp/data/images/train/'
+val: 'D:/multi_camera_tracking/test_temp/data/images/val/'
+nc: 1
+names: 
+  0: person
